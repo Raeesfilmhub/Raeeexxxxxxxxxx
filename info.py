@@ -70,7 +70,4 @@ AUTO_DELETE = environ.get('AUTO_DELETE', True)
 if AUTO_DELETE == "True":
     AUTO_DELETE = True
 
-#Sample
-SHORTNER_SITE = ""
-SHORTNER_API = ""
 
